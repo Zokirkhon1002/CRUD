@@ -1,0 +1,1 @@
+CRUD only with soft nodejs without any frameworks
